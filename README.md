@@ -2,7 +2,7 @@
 
 A paper-trading app with **live Binance prices**: place market and limit orders, track positions and P&L, and watch resting limit orders fill when the price crosses. Built with **React, TypeScript, Zustand and WebSockets**. No real money, no API keys.
 
-**Live demo:** _add your Vercel link here_
+**Live demo:** https://paper-trader-eight-tau.vercel.app/
 
 ## Features
 
